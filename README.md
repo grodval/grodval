@@ -93,5 +93,6 @@
 
 ## 📈 Stats
   ![imageStats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grodval&theme=algolia)
+  
   ⭐ Thanks for visiting my profile! Feel free to explore my repositories and reach out!
 ---
