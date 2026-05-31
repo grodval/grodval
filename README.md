@@ -8,7 +8,7 @@
 </div>
 <h2 align="center"> 💬 Let's collaborate? </h2>
 <p align="center">
-  <a href="mailto:germannrv.99@gmail.com">
+  <a href="mailto:germanrv.99@gmail.com">
     <img src="https://img.shields.io/badge/Email-germannrv.99@gmail.com-0e4b6e?style=flat&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/grodval">
